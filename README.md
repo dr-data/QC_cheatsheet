@@ -8,6 +8,7 @@
   - Statevector
 # Single Gate
   - XGate, YGate, ZGate, HGate
+  - Qubit conversion
 # Multi Gates 
   - CNOT Gate, Circuit Indentities
 
